@@ -4,9 +4,9 @@
 
 ##**Install** ##
 
-    git clone https://github.com/rlindskog/car_values
-    cd ./car-values
+    git clone https://github.com/rlindskog/car_value
+    cd ./car_value
     pip install -r requirements.txt
 
 ## **Run** ##
-	python example.py
+    python example.py
